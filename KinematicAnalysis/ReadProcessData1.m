@@ -12,7 +12,7 @@ tline = fgetl(fileID);
 % Line counter
 line= 1;
 
-% Reas the file until finding the tag Marker_Names
+% Reads the file until finding the tag Marker_Names
 while (strcmpi(tline(1:7),'Marker_')==0)
     % Takes the frequency from the file
     if (strcmpi(tline(1:8),'FREQUENC')==1)
