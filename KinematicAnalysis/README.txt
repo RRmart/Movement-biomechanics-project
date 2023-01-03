@@ -12,5 +12,5 @@ To obtain EMG Results run the script
 "EMGplot.m"
 
 --
-The flowchart for the implementation of the program is shown in the file "Flowchart.jpeg". 
+The flowchart for the implementation of the program is shown in the file "Flowchart.jpg". 
 The file "ProcessingFile.txt" contains the necessary information about the multibody system to be studied (bodies, joints and drivers, which contain the information for the driving constraints).
